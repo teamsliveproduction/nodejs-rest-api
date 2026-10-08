@@ -46,7 +46,6 @@
     "url": "git://github.com/motdotla/dotenv.git"
   },
   "homepage": "https://github.com/motdotla/dotenv#readme",
-  "funding": "https://dotenvx.com",
   "keywords": [
     "dotenv",
     "env",
